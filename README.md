@@ -1,2 +1,2 @@
-# M-todos-Num-ricos
+# Metodos-Numericos
 Códigos con respecto a métodos numéricos
